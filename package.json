@@ -1,0 +1,12 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Phase 1 Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "npm start"
+  },
+  "author": "Daniel Muchiri",
+  "license": "ISC"
+}
