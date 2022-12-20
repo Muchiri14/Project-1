@@ -16,6 +16,11 @@ https://muchiri14.github.io/Project-1/
 
 - The User then can play around selecting different jobs they want to see as the web filters out what they select from what they dont select.
 
+## KEYWORDS
+The web page was developed by the use of Javascript, HTML, and CSS
+
+There is a use of public API that initiated the data used in the webpage.
+
 # AUTHOR
 Daniel Muchiri
 
